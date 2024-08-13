@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: popins, sans-serif;
+}
+body {
+  background: #2f1f70;
+  color: #fff;
+}
+h1 {
+  text-align: center;
+  margin: 100px auto 50px;
+  font-size: 30px;
+  font-weight: 600;
+}
